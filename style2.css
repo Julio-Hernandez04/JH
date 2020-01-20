@@ -1,0 +1,27 @@
+body{
+    
+    background-image: url(https://backgrounddownload.com/wp-content/uploads/2018/09/professional-blue-background.jpg)
+}
+.body-text{
+    color: blue;
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 10%;
+}
+h1{
+    
+    text-align: center;
+    color: rgb(77, 235, 129);
+}
+h2{
+    font-style: italic;
+    color: rgb(167, 167, 167);
+}
+h3{
+    font-style: unset;
+    color: rgb(33, 142, 156)
+}
